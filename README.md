@@ -1,2 +1,2 @@
 # solidPrinciples
-About Solid Principles
+**About Solid Principles**
