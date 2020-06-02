@@ -1,2 +1,6 @@
 # solidPrinciples
-**About Solid Principles**
+**About**
+-Solid Principles
+-Microsoft Build Activity
+-DevlerAzureda Activity
+-Competition
